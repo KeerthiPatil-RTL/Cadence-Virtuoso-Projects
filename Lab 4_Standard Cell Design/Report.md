@@ -1,12 +1,12 @@
 # Lab 4 – Transistor-Level Design of Basic CMOS Logic Gates
  
----
+
 
 ## Objective
 Design and simulate transistor-level schematics of **NAND2, AND2, AND3, NOR2, NOR3, OR2, OR3, and XOR2** gates using **45 nm CMOS technology** in **Cadence Virtuoso**.  
 Measure **tpHL**, **tpLH**, and **average power**, and resize transistors to achieve balanced rising and falling propagation delays.
 
----
+
 
 ## Procedure
 1. Created the library **work_lib** and attached it to **NCSU_TechLib_FreePDK45**.  
@@ -19,7 +19,7 @@ Measure **tpHL**, **tpLH**, and **average power**, and resize transistors to ach
 8. Adjusted transistor widths (**Wp/Wn**) to minimize delay mismatch between rise and fall transitions.  
 9. Generated **symbol views** for hierarchical integration in larger designs.
 
----
+
 
 ## Results
 
@@ -55,7 +55,7 @@ Measure **tpHL**, **tpLH**, and **average power**, and resize transistors to ach
 - Initial Avg = 17.34 ps, Power = 1.19 × 10⁻⁶ W  
 - Resized (Wp = 300 nm, Wn = 720 nm): Avg = 16.04 ps, Power = 3.82 × 10⁻⁶ W  
 
----
+
 
 ## Before and After Resizing Summary
 The following table compares the delay and power performance of each CMOS gate before and after transistor resizing.
@@ -79,7 +79,7 @@ The following table compares the delay and power performance of each CMOS gate b
 | **XOR2 (Before)** | 100 | 100 | 17.36 | 17.33 | 17.34 | 1.19×10⁻⁶ | — |
 | **XOR2 (After)** | 300 | 720 | 16.02 | 16.05 | 16.04 | 3.82×10⁻⁶ | Slight delay improvement, higher drive strength |
 
----
+
 
 ## Delay and Power Summary
 
@@ -94,7 +94,7 @@ The following table compares the delay and power performance of each CMOS gate b
 | OR3   | 1370 | 90 | 12.97 | 13.00 | 12.98 | 3.27×10⁻⁶ |
 | XOR2  | 300 | 720 | 16.02 | 16.05 | 16.04 | 3.82×10⁻⁶ |
 
----
+
 
 ## Conclusion
 All CMOS logic gates were successfully designed, simulated, and analyzed at the transistor level using **Cadence Virtuoso (45 nm CMOS)**.  
