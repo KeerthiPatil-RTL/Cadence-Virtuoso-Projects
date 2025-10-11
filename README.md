@@ -16,11 +16,11 @@ The work is implemented using **45nm CMOS technology** and demonstrates
 
 ## 🧪 Labs & Projects
 - <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/1f547fa93c86ab4b67b09a3f18e6f4f7903a4e52/Lab1_PrimeNumberDetector/Report.md">Lab 1: 4-bit Prime Number Detector & 1 Detector</a>    
-- <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/1f547fa93c86ab4b67b09a3f18e6f4f7903a4e52/Lab2_Inverter%20and%203-Input%20NAND%20(Transistor-Level%20Design)/Report.md">Lab 2: Inverter and 3-input NAND</a>  
-- Lab 3: Inverter Layout & NAND Stick Diagram 
--  <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/110be3fdc3070887602bcc84baf5a11ec47287f3/Lab%204_Standard%20Cell%20Design/Report.md">Lab 4: Standard Cell Design</a>   
+- <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/1f547fa93c86ab4b67b09a3f18e6f4f7903a4e52/Lab2_Inverter%20and%203-Input%20NAND%20(Transistor-Level%20Design)/Report.mdcLab 2: Inverter and 3-input NAND</a>  
+- <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/4a2d3ec85bf523ccca4122c49c4e83d38c71a940/Lab%203_Inverter%20Layout%20%26%20NAND%20Stick%20Diagram/Report.md">Lab 3: Inverter Layout & NAND Stick Diagram</a>  
+- <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/110be3fdc3070887602bcc84baf5a11ec47287f3/Lab%204_Standard%20Cell%20Design/Report.md">Lab 4: Standard Cell Design</a>   
 - Lab 5: 4-bit Adder/Subtractor (Compound vs Standard Gate)  
-- Lab 6: D Flip-Flop with Preset & Clear  
+- Lab 6: D Flip-Flop with Preset & Clear    
 - Lab 7: Fast 4-bit Up-Down Counter  
 - Lab 8: 3-to-8 Decoder with optimized EDP  
 - **Final Project**: 8-bit CPU/ALU (Cadence Virtuoso)  
