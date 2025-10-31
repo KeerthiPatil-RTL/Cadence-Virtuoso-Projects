@@ -1,6 +1,6 @@
 # Lab 6 – D Flip-Flop with Asynchronous Preset & Clear
 
----
+
 
 ## 1. Objective
 The objective of this lab is to design and simulate a **positive-edge-triggered D Flip-Flop** with **asynchronous Preset (PRE)** and **Clear (CLR)** using **Cadence Virtuoso (FreePDK45 – 45 nm CMOS)**.  
@@ -9,7 +9,7 @@ The design uses previously created **NAND3** and **Inverter** cells to construct
 - Proper asynchronous operation of Preset and Clear inputs.  
 - Timing balance through propagation-delay and power analysis.  
 
----
+
 
 ## 2. Procedure
 1. Designed transistor-level schematics for **NAND3** and **Inverter** gates using PMOS and NMOS transistors.  
@@ -23,7 +23,7 @@ The design uses previously created **NAND3** and **Inverter** cells to construct
 
 All figures (schematics, symbols, and waveforms) are stored externally in the repository’s *images* folder.
 
----
+
 
 ## 3. Simulation Results
 
@@ -37,7 +37,7 @@ All figures (schematics, symbols, and waveforms) are stored externally in the re
 
 **Observation:** The circuit operates correctly with stable output and near-balanced timing. The slightly larger tpLH value is due to the higher PMOS resistance during charging.
 
----
+
 
 ### Case 2 – PMOS = 150 nm, NMOS = 100 nm
 | Parameter | Value |
@@ -59,7 +59,7 @@ All figures (schematics, symbols, and waveforms) are stored externally in the re
 
 **Observation:** Optimized transistor widths produced nearly equal tpHL and tpLH values with reduced average delay and stable power.  
 
----
+
 
 ## 4. Functional Verification
 | PRE | CLR | D | CLK ↑ | Q (Output) | Description |
@@ -71,7 +71,6 @@ All figures (schematics, symbols, and waveforms) are stored externally in the re
 
 **Observation:** The waveforms confirm that Q follows D at the rising edge of CLK when Preset and Clear are inactive. When either asynchronous input is active, it overrides normal clocked operation.
 
----
 
 ## 5. Result Summary
 | Case | PMOS (nm) | NMOS (nm) | Avg Delay (ps) | Power (µW) | Remarks |
@@ -80,7 +79,7 @@ All figures (schematics, symbols, and waveforms) are stored externally in the re
 | 2 | 150 | 100 | 38.98 | 8.48 | Power-optimized – minor delay change |
 | 3 | 200 / 90 | 130 / 150 | 32.51 | 8.39 | Optimized tpHL ≈ tpLH – best performance |
 
----
+
 
 ## 6. Conclusion
 The **D Flip-Flop with asynchronous Preset and Clear** was successfully designed and verified in **Cadence Virtuoso** using **FreePDK45 (45 nm CMOS)** technology.  
@@ -91,5 +90,5 @@ The optimized configuration achieved:
 
 This demonstrates the importance of transistor sizing in achieving timing symmetry, efficient switching, and balanced power-delay performance in CMOS sequential circuits.
 
----
+
 
