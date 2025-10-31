@@ -20,7 +20,7 @@ The work is implemented using **45nm CMOS technology** and demonstrates
 - <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/1f547fa93c86ab4b67b09a3f18e6f4f7903a4e52/Lab2_Inverter%20and%203-Input%20NAND%20(Transistor-Level%20Design)/Report.md">Lab 2: Inverter and 3-input NAND</a>    
 - <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/4a2d3ec85bf523ccca4122c49c4e83d38c71a940/Lab%203_Inverter%20Layout%20%26%20NAND%20Stick%20Diagram/Report.md">Lab 3: Inverter Layout & NAND Stick Diagram</a>  
 - <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/110be3fdc3070887602bcc84baf5a11ec47287f3/Lab%204_Standard%20Cell%20Design/Report.md">Lab 4: Standard Cell Design</a>   
-- Lab 5: 4-bit Adder/Subtractor (Compound vs Standard Gate)  
+- <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/cd572a7f978599eab984dba75baff294a3fffa8a/Lab%205%3A%204-bit%20Adder%20or%20subtractor%20(compound%20and%20standard%20gates)/Report.md">Lab 5: 4-bit Adder/Subtractor (Compound vs Standard Gate)</a>   
 - <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/4ac795d5c3880885f2eb2bc92e5387ea4ebab306/Lab%206%3A%20D%20Flip-Flop%20with%20Preset%20%26%20Clear/Report.md">Lab 6: D Flip-Flop with Preset & Clear</a>     
 - Lab 7: Fast 4-bit Up-Down Counter  
 - Lab 8: 3-to-8 Decoder with optimized EDP  
