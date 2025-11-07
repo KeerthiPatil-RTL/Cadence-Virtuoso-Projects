@@ -7,14 +7,14 @@ independent extensions like an **8-bit CPU/ALU**.
 The work is implemented using **45nm CMOS technology** and demonstrates 
 **industry-relevant skills in ASIC/RTL design, digital VLSI, and verification**.
 
-## 🔑 Skills Demonstrated
+##  Skills Demonstrated
 - **Cadence Virtuoso + Spectre**: schematic design, simulation, waveform verification  
 - **45nm CMOS**: transistor-level digital circuit design and analysis  
 - **Circuit Design**: inverters, NAND/NOR, D flip-flops, adders/subtractors, counters, decoders  
 - **System-Level Design**: Prime number detector, 8-bit adder/subtractor, 8-bit CPU/ALU  
 - **Analysis**: propagation delay, power, energy-delay product (EDP), and optimization  
 
-## 🧪 Labs & Projects  
+##  Labs & Projects  
 - <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/b46559fff5da700f8d139dbc72d92d851128b159/UNIX%20commands/Report.md">UNIX Commands</a> 
 - <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/1f547fa93c86ab4b67b09a3f18e6f4f7903a4e52/Lab1_PrimeNumberDetector/Report.md">Lab 1: 4-bit Prime Number Detector & 1 Detector</a>    
 - <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/1f547fa93c86ab4b67b09a3f18e6f4f7903a4e52/Lab2_Inverter%20and%203-Input%20NAND%20(Transistor-Level%20Design)/Report.md">Lab 2: Inverter and 3-input NAND</a>    
@@ -26,11 +26,11 @@ The work is implemented using **45nm CMOS technology** and demonstrates
 - Lab 8: 3-to-8 Decoder with optimized EDP  
 - **Final Project**: 8-bit CPU/ALU (Cadence Virtuoso)  
 
-## 📜 Certifications
+##  Certifications
 - Semiconductor 101 (Cadence University)  
 - Front-End Digital Design & Verification v2.0 (in progress)  
 
-## 🎯 Career Relevance
+##  Career Relevance
 This repository highlights my **hands-on training in Cadence tools** and 
 **CMOS VLSI design flow**, aligning with roles in:  
 - ASIC/RTL Design  
