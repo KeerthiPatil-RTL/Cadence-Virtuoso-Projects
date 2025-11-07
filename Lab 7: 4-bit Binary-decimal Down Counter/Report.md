@@ -30,7 +30,7 @@ The goal was to demonstrate sequential circuit operation using D Flip-Flops and 
 
 
 
-##  Discussion
+##  Design Optimization and Analysis
 In combinational circuits, PMOS and NMOS widths are adjusted to balance tpLH and tpHL for symmetrical transitions.  
 In **sequential circuits** such as counters, transistor widths are optimized to achieve reliable operation at higher clock frequencies.  
 Increasing NMOS width strengthens the pull-down path and improves switching speed, while increasing PMOS width enhances pull-up drive and reduces rise time.  
