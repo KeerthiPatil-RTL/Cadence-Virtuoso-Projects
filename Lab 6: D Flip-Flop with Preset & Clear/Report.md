@@ -49,7 +49,7 @@ All figures (schematics, symbols, and waveforms) are stored externally in the re
 
 **Observation:** Reducing the PMOS width improves power efficiency while maintaining correct functionality and acceptable timing.
 
----
+
 
 ### Case 3 – Optimized Widths (tpHL ≈ tpLH)
 | Gate | PMOS (nm) | NMOS (nm) | tpHL (ps) | tpLH (ps) | Avg Delay (ps) | Power (µW) |
