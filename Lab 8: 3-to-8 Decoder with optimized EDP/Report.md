@@ -91,5 +91,4 @@ The final design achieved:
 - Best energy efficiency at **0.5V**  
 - Clear validation of CMOS voltage–delay–power trade-offs  
 
-This lab reinforced concepts of **logical effort, transistor sizing, multi-VDD analysis, and high-speed digital circuit optimization**, providing strong practical understanding of delay and power behavior in CMOS logic.
 
