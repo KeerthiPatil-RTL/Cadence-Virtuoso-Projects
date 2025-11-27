@@ -15,15 +15,10 @@ The work is implemented using **45nm CMOS technology** and demonstrates
 - **Analysis**: propagation delay, power, energy-delay product (EDP), and optimization
 
 # Projects 
-<p align="center">
-  <strong> High-Performance 8-bit ALU Microarchitecture Design</strong>
-</p>
+**High-Performance 8-bit ALU Microarchitecture Design**
+**8-bit RISC CPU Architecture & RTL Implementation**
 
-<p align="center">
-  <strong> 8-bit RISC CPU Architecture & RTL Implementation</strong>
-</p>
-
-
+  
 ##  Labs  
 - <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/b46559fff5da700f8d139dbc72d92d851128b159/UNIX%20commands/Report.md">UNIX Commands</a> 
 - <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/1f547fa93c86ab4b67b09a3f18e6f4f7903a4e52/Lab1_PrimeNumberDetector/Report.md">Lab 1: 4-bit Prime Number Detector & 1 Detector</a>    
