@@ -12,7 +12,7 @@ Design a **3-to-8 decoder** that meets the following goals:
 - Balanced rise/fall delays using Logical Effort  
 - Performance comparison across multiple VDD values  
 
----
+
 
 ## Key Concepts Used
 - Logical Effort (g, h, p, F = G × B × H)  
@@ -22,7 +22,7 @@ Design a **3-to-8 decoder** that meets the following goals:
 - Multi-VDD simulation and EDP analysis  
 - CMOS delay & power trade-offs  
 
----
+
 
 ## Design Flow Summary
 1. Calculated path effort and determined best number of stages  
@@ -37,7 +37,7 @@ Design a **3-to-8 decoder** that meets the following goals:
 10. Simulated at multiple VDD (1.0 to 0.2 V)  
 11. Computed EDP and identified best voltage  
 
----
+
 
 ## Final Gate Sizing Summary
 
@@ -47,7 +47,6 @@ Design a **3-to-8 decoder** that meets the following goals:
 | NAND3 | 610 nm each | 405 nm each |
 | Inverter 2 | 990 nm | 1480 nm |
 
----
 
 ## Multi-VDD Summary
 
@@ -70,7 +69,7 @@ Design a **3-to-8 decoder** that meets the following goals:
 - Multi-VDD simulations revealed significant power savings at lower VDD, with **0.5V achieving the lowest EDP**.  
 - At **0.2V** the circuit failed to switch (only leakage), confirming the minimum usable voltage limit.
 
----
+
 
 #  ANALYSIS
 - Logical Effort accurately identified the optimal stage count and gate arrangement.  
@@ -80,7 +79,7 @@ Design a **3-to-8 decoder** that meets the following goals:
 - **EDP evaluation showed 0.5V provides the best balance between speed and power**, despite having higher delay than 1V.  
 - The failure at 0.2V aligns with MOSFET threshold behavior and insufficient drive strength.
 
----
+
 
 #  CONCLUSION
 The 3-to-8 decoder was successfully designed, optimized, and analyzed using **Logical Effort theory** and Cadence Virtuoso simulations.  
@@ -94,4 +93,3 @@ The final design achieved:
 
 This lab reinforced concepts of **logical effort, transistor sizing, multi-VDD analysis, and high-speed digital circuit optimization**, providing strong practical understanding of delay and power behavior in CMOS logic.
 
----
