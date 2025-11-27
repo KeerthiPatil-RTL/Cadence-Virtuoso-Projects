@@ -1,11 +1,11 @@
-#Lab 8 — 3-to-8 Decoder with Best EDP
+# Lab 8 — 3-to-8 Decoder with Best EDP
 ### Cadence Virtuoso • Logical Effort • High-Speed Digital Design
 
 This folder contains the complete implementation, simulation results, calculations, and analysis for **Lab 8: 3-to-8 Decoder with Best Energy–Delay Product (EDP)** as part of **EE4540L/6540L – VLSI Design Lab**.
 
 ---
 
-##Objective
+## Objective
 Design a **3-to-8 decoder** that meets the following goals:
 
 - High operating frequency  
@@ -16,7 +16,7 @@ Design a **3-to-8 decoder** that meets the following goals:
 
 ---
 
-##Key Concepts Used
+## Key Concepts Used
 - Logical Effort (g, h, p, F = G × B × H)  
 - Gate sizing (Cin = g × Cout / f)  
 - Delay equalization (tPLH ≈ tPHL)  
@@ -26,7 +26,7 @@ Design a **3-to-8 decoder** that meets the following goals:
 
 ---
 
-##Design Flow Summary
+## Design Flow Summary
 1. Calculated path effort and determined best number of stages  
 2. Compared **1–4 stage** topologies  
 3. Selected **3-stage architecture → INV → NAND3 → INV**  
@@ -41,7 +41,7 @@ Design a **3-to-8 decoder** that meets the following goals:
 
 ---
 
-##Final Gate Sizing Summary
+## Final Gate Sizing Summary
 
 | Gate | NMOS Width | PMOS Width |
 |------|------------|------------|
@@ -51,7 +51,7 @@ Design a **3-to-8 decoder** that meets the following goals:
 
 ---
 
-##Multi-VDD Summary
+## Multi-VDD Summary
 
 | VDD (V) | Max Frequency (GHz) | Avg Delay (ps) | Avg Power (µW) | EDP (fJ·s) |
 |---------|----------------------|----------------|------------------|------------|
