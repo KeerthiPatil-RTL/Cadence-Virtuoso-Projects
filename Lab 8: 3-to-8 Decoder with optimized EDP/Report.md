@@ -1,7 +1,7 @@
 # Lab 8 — 3-to-8 Decoder with Best EDP
 ### Cadence Virtuoso • Logical Effort • High-Speed Digital Design
 
----
+
 
 ## Objective
 Design a **3-to-8 decoder** that meets the following goals:
