@@ -1,8 +1,6 @@
 # Lab 8 — 3-to-8 Decoder with Best EDP
 ### Cadence Virtuoso • Logical Effort • High-Speed Digital Design
 
-This folder contains the complete implementation, simulation results, calculations, and analysis for **Lab 8: 3-to-8 Decoder with Best Energy–Delay Product (EDP)** as part of **EE4540L/6540L – VLSI Design Lab**.
-
 ---
 
 ## Objective
@@ -64,4 +62,36 @@ Design a **3-to-8 decoder** that meets the following goals:
 **✔ Best energy-efficiency achieved at 0.5 V**
 
 
+#  RESULTS
+- The logical-effort–based 3-stage design (**INV → NAND3 → INV**) produced the **lowest delay (17.15)** among all tested options.  
+- The decoder successfully generated **correct one-hot outputs** for all input combinations.  
+- After resizing, **tPLH and tPHL became closely matched**, improving timing symmetry.  
+- The design operated reliably up to **2 GHz** at VDD = 1V.  
+- Multi-VDD simulations revealed significant power savings at lower VDD, with **0.5V achieving the lowest EDP**.  
+- At **0.2V** the circuit failed to switch (only leakage), confirming the minimum usable voltage limit.
 
+---
+
+#  ANALYSIS
+- Logical Effort accurately identified the optimal stage count and gate arrangement.  
+- The 3-stage architecture minimized delay by balancing electrical and logical efforts.  
+- Transistor width adjustments had a major impact on rising vs. falling delays.  
+- Delay decreased with increasing VDD, but power increased **quadratically**, making high-VDD operation less energy efficient.  
+- **EDP evaluation showed 0.5V provides the best balance between speed and power**, despite having higher delay than 1V.  
+- The failure at 0.2V aligns with MOSFET threshold behavior and insufficient drive strength.
+
+---
+
+#  CONCLUSION
+The 3-to-8 decoder was successfully designed, optimized, and analyzed using **Logical Effort theory** and Cadence Virtuoso simulations.  
+The final design achieved:
+
+- Correct functional decoding  
+- Balanced propagation delays  
+- Maximum frequency of **2 GHz**  
+- Best energy efficiency at **0.5V**  
+- Clear validation of CMOS voltage–delay–power trade-offs  
+
+This lab reinforced concepts of **logical effort, transistor sizing, multi-VDD analysis, and high-speed digital circuit optimization**, providing strong practical understanding of delay and power behavior in CMOS logic.
+
+---
