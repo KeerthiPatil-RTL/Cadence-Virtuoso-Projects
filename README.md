@@ -23,7 +23,7 @@ The work is implemented using **45nm CMOS technology** and demonstrates
 - <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/cd572a7f978599eab984dba75baff294a3fffa8a/Lab%205%3A%204-bit%20Adder%20or%20subtractor%20(compound%20and%20standard%20gates)/Report.md">Lab 5: 4-bit Adder/Subtractor (Compound vs Standard Gate)</a>   
 - <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/4ac795d5c3880885f2eb2bc92e5387ea4ebab306/Lab%206%3A%20D%20Flip-Flop%20with%20Preset%20%26%20Clear/Report.md">Lab 6: D Flip-Flop with Preset & Clear</a>     
 - <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/6c45382afbde5d70de18578c19a4db8b49467b28/Lab%207%3A%204-bit%20Binary-decimal%20Down%20Counter/Report.md"> Lab 7: 4-bit Binary-decimal Down Counter</a>    
-- Lab 8: 3-to-8 Decoder with optimized EDP  
+- <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/abef7685442a89b09a3998029e52878c94a0b6aa/Lab%208%3A%203-to-8%20Decoder%20with%20optimized%20EDP/Report.md"> Lab 8: 3-to-8 Decoder with optimized EDP</a>  
 - **Final Project**: 8-bit CPU/ALU (Cadence Virtuoso)  
 
 ##  Certifications
