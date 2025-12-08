@@ -9,7 +9,6 @@ The design is based on a **bit-sliced architecture**, beginning from a single 1-
 
 All simulations, power analysis, and timing verification were completed in **Cadence Virtuoso**.
 
----
 
 ##  Features
 - Transistor-level schematics for:
@@ -28,7 +27,7 @@ All simulations, power analysis, and timing verification were completed in **Cad
 - Worst-case delay extraction  
 - Power, Delay, Area (PDA) computation for design efficiency  
 
----
+
 
 ##  Floorplan Summary
 The ALU uses a **regular bit-slice floorplan**:
@@ -38,7 +37,7 @@ The ALU uses a **regular bit-slice floorplan**:
 - Input registers on the left, output registers on the right  
 - Minimizes routing complexity and ensures timing consistency  
 
----
+
 
 ##  Design Methodology
 1. Generated truth tables for all ALU operations  
@@ -55,7 +54,6 @@ The ALU uses a **regular bit-slice floorplan**:
 10. Determined worst-case delay  
 11. Measured power, area, and calculated PDA  
 
----
 
 ##  Power–Delay–Area (PDA) Summary
 
@@ -73,7 +71,7 @@ The ALU uses a **regular bit-slice floorplan**:
 
 The registered ALU eliminates glitches and offers stable synchronous operation at the cost of a higher PDA.
 
----
+
 
 ##  Results Summary
 - All AE, LE, CO, FA, and register blocks were verified using simulation.  
@@ -82,7 +80,6 @@ The registered ALU eliminates glitches and offers stable synchronous operation a
 - Worst-case delay was identified through ripple-carry propagation analysis.  
 - PDA metrics demonstrate the tradeoff between performance stability and hardware cost.  
 
----
 
-## 📂 Repository Structure (Recommended)
+
 
