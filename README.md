@@ -15,7 +15,7 @@ The work is implemented using **45nm CMOS technology** and demonstrates
 - **Analysis**: propagation delay, power, energy-delay product (EDP), and optimization
 
 # Projects 
-- - <a href = "ALU-MICROARCHITECTURE/Report.md"> High-Performance 8-bit ALU Microarchitecture Design   </a>
+- <a href = "ALU-MICROARCHITECTURE/Report.md"> High-Performance 8-bit ALU Microarchitecture Design   </a>
 - 8-bit RISC CPU Architecture & RTL Implementation
 
   
