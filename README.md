@@ -29,7 +29,7 @@ The work is implemented using **45nm CMOS technology** and demonstrates
 - <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/4ac795d5c3880885f2eb2bc92e5387ea4ebab306/Lab%206%3A%20D%20Flip-Flop%20with%20Preset%20%26%20Clear/Report.md">Lab 6: D Flip-Flop with Preset & Clear</a>     
 - <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/6c45382afbde5d70de18578c19a4db8b49467b28/Lab%207%3A%204-bit%20Binary-decimal%20Down%20Counter/Report.md"> Lab 7: 4-bit Binary-decimal Down Counter</a>    
 - <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/abef7685442a89b09a3998029e52878c94a0b6aa/Lab%208%3A%203-to-8%20Decoder%20with%20optimized%20EDP/Report.md"> Lab 8: 3-to-8 Decoder with optimized EDP</a>
-- <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/abef7685442a89b09a3998029e52878c94a0b6aa/Lab%208%3A%203-to-8%20Decoder%20with%20optimized%20EDP/Report.md"> ALUMICROARCHITECTURE EDP</a>
+- <a href = "ALU-MICROARCHITECTURE/Report.md"> ALUMICROARCHITECTURE </a>
   
 ##  Certifications
 - Semiconductor 101 (Cadence University)  
