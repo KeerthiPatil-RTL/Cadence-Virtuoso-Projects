@@ -28,7 +28,8 @@ The work is implemented using **45nm CMOS technology** and demonstrates
 
 # <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/bde017d5ef8c9be43f01ffc0e4b6740624938942/PROJECT/keerthi_projectkicoff.pdf"> IMPLEMENTATION OF AN 8-BIT RISC CPU (45 nm CMOS Technology)     
 ##  Block level architecture of the 8-bit RISC PROCESSOR   
-<img width="419" height="292" alt="cpu" src="https://github.com/user-attachments/assets/7a4a96ea-cfb8-44e8-8e5d-c6e47c69098d" />         
+<img width="419" height="292" alt="cpu" src="https://github.com/user-attachments/assets/7a4a96ea-cfb8-44e8-8e5d-c6e47c69098d" />        
+   
 ## Top-level schematic of the 8-bit RISC CPU architecture
 <img width="1108" height="810" alt="maincpu" src="https://github.com/user-attachments/assets/1c8ddf94-3183-44d6-ac8a-13fe11b78231" />   
 
