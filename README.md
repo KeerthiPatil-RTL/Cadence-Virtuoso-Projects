@@ -32,6 +32,9 @@ The work is implemented using **45nm CMOS technology** and demonstrates
 
   
 ##  Certifications
-
-
+- <a href = "https://www.credly.com/badges/301e1a41-48e8-4ac4-a011-7e582b23a80e/public_url">Semiconductor 101 v1.0</a>  
+- <a href = "https://www.credly.com/badges/52340abd-0c55-460a-b487-e868020c2100/public_url">Digital IC Design Fundamentals v2.0</a> 
+- <a href = "https://www.credly.com/badges/4d38cd87-c0be-46ab-ae2f-fe2bf86f8c4a/public_url">Design for Test Fundamentals v25.1</a> 
+- <a href = "https://www.credly.com/badges/9d6583a1-6eb4-4482-8325-ee8cb37a2fb0/public_url">Cadence RTL-to-GDSII Flow v6.0</a> 
+- <a href = "https://www.credly.com/badges/3c589784-449a-4a69-989a-0f8550b73b38/public_url">Basic Static Timing Analysis v3.0</a> 
 
