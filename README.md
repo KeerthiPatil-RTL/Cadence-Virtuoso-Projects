@@ -17,8 +17,7 @@ The work is implemented using **45nm CMOS technology** and demonstrates
 # Projects 
 # <a href = "ALU-MICROARCHITECTURE/Report.md"> High-Performance 8-bit ALU Microarchitecture Design</a>          
 ## 8-bit ALU without registers   
-<img width="1731" height="837" alt="ALU-8BIT-SCHEMATIC2" src="https://github.com/user-attachments/assets/55bb7364-4569-4e8d-8af7-2ba18ac5eba6" />
-     
+<img width="1592" height="369" alt="ALU-8BIT-SCHEMATIC2" src="https://github.com/user-attachments/assets/d0496c6e-509c-41a5-a26c-3f597b93e709" />    
    
 ## 8-bit ALU with input/output registers      
 <img width="1586" height="513" alt="ALU_8BIT_PIPELINE_SCHEMATIC3" src="https://github.com/user-attachments/assets/dce14275-77fd-4a96-93cb-abd5bff30e1b" />             
