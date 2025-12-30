@@ -20,8 +20,8 @@ The work is implemented using **45nm CMOS technology** and demonstrates
 <img width="1731" height="837" alt="ALU-8BIT-SCHEMATIC2" src="https://github.com/user-attachments/assets/55bb7364-4569-4e8d-8af7-2ba18ac5eba6" />
      
    
-## 8-bit ALU with input/output registers    
-<img width="1731" height="837" alt="ALU_8BIT_PIPELINE_SCHEMATIC3" src="https://github.com/user-attachments/assets/5b31803e-d03d-4343-a0bf-a21e915fc6a4" />           
+## 8-bit ALU with input/output registers      
+<img width="1586" height="513" alt="ALU_8BIT_PIPELINE_SCHEMATIC3" src="https://github.com/user-attachments/assets/dce14275-77fd-4a96-93cb-abd5bff30e1b" />             
 <img width="1691" height="783" alt="FINALALU" src="https://github.com/user-attachments/assets/f32cdc25-2f33-45e8-a239-2ef300dadcd8" />
 
 
