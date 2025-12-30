@@ -32,12 +32,6 @@ The work is implemented using **45nm CMOS technology** and demonstrates
 
   
 ##  Certifications
-- Semiconductor 101 (Cadence University)  
-- Front-End Digital Design & Verification v2.0 (in progress)  
 
-##  Career Relevance
-This repository highlights my **hands-on training in Cadence tools** and 
-**CMOS VLSI design flow**, aligning with roles in:  
-- ASIC/RTL Design  
-- Digital VLSI & SoC Development  
-- Design Verification  
+
+
