@@ -21,11 +21,9 @@ The work is implemented using **45nm CMOS technology** and demonstrates
      
    
 ## 8-bit ALU with input/output registers    
-<img width="1731" height="837" alt="ALU_8BIT_PIPELINE_SCHEMATIC3" src="https://github.com/user-attachments/assets/5b31803e-d03d-4343-a0bf-a21e915fc6a4" />         
-<img width="1442" height="525" alt="Gemini_Generated_Image_o5s8qio5s8qio5s8" src="https://github.com/user-attachments/assets/8924ab08-65ca-4e1a-b607-8e96a38d9ca8" />
-  
+<img width="1731" height="837" alt="ALU_8BIT_PIPELINE_SCHEMATIC3" src="https://github.com/user-attachments/assets/5b31803e-d03d-4343-a0bf-a21e915fc6a4" />           
+<img width="1691" height="783" alt="FINALALU" src="https://github.com/user-attachments/assets/f32cdc25-2f33-45e8-a239-2ef300dadcd8" />
 
-  
 
 # <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/bde017d5ef8c9be43f01ffc0e4b6740624938942/PROJECT/keerthi_projectkicoff.pdf"> IMPLEMENTATION OF AN 8-BIT RISC CPU (45 nm CMOS Technology)     
 ##  Block level architecture of the 8-bit RISC PROCESSOR   
