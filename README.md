@@ -15,7 +15,7 @@ The work is implemented using **45nm CMOS technology** and demonstrates
 - **Analysis**: propagation delay, power, energy-delay product (EDP), and optimization
 
 # Projects 
-<a href = "ALU-MICROARCHITECTURE/Report.md"> High-Performance 8-bit ALU Microarchitecture Design</a>          
+# <a href = "ALU-MICROARCHITECTURE/Report.md"> High-Performance 8-bit ALU Microarchitecture Design</a>          
 # 8-bit ALU without registers   
 <img width="1575" height="303" alt="ALU-8BIT-SCHEMATIC2" src="https://github.com/user-attachments/assets/cc1c8819-b4c4-4484-8260-9e1654a66f7e" />   
      
@@ -25,8 +25,7 @@ The work is implemented using **45nm CMOS technology** and demonstrates
 <img width="1691" height="783" alt="FINALALU" src="https://github.com/user-attachments/assets/c3749105-8b87-4b2f-a7cc-cb90bcf3f947" />  
 
 
-<a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/bde017d5ef8c9be43f01ffc0e4b6740624938942/PROJECT/keerthi_projectkicoff.pdf"> 8-bit RISC CPU Architecture & RTL Implementation    
-# 8-bit CPU  
+# <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/bde017d5ef8c9be43f01ffc0e4b6740624938942/PROJECT/keerthi_projectkicoff.pdf"> 8-bit RISC CPU Architecture & RTL Implementation    
 <img width="1086" height="763" alt="maincpu" src="https://github.com/user-attachments/assets/c6741486-b154-423f-9135-25dafa022345" />
 
 
