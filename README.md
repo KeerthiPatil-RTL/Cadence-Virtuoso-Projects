@@ -16,7 +16,7 @@ The work is implemented using **45nm CMOS technology** and demonstrates
 
 # Projects 
 - <a href = "ALU-MICROARCHITECTURE/Report.md"> High-Performance 8-bit ALU Microarchitecture Design   </a>
-- 8-bit RISC CPU Architecture & RTL Implementation
+- <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/bde017d5ef8c9be43f01ffc0e4b6740624938942/PROJECT/keerthi_projectkicoff.pdf"> 8-bit RISC CPU Architecture & RTL Implementation
 
   
 ##  Labs  
