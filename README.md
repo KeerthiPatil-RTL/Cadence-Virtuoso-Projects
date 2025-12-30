@@ -27,11 +27,8 @@ The work is implemented using **45nm CMOS technology** and demonstrates
 
 
 # <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/bde017d5ef8c9be43f01ffc0e4b6740624938942/PROJECT/keerthi_projectkicoff.pdf"> IMPLEMENTATION OF AN 8-BIT RISC CPU (45 nm CMOS Technology)   
-<img width="1731" height="837" alt="ALU_8BIT_PIPELINE_SCHEMATIC3" src="https://github.com/user-attachments/assets/37126b3d-7a75-4abc-ae64-7ee52905f30c" />   
+<img width="1108" height="810" alt="maincpu" src="https://github.com/user-attachments/assets/1c8ddf94-3183-44d6-ac8a-13fe11b78231" />
 
-
-
-  
 ##  Labs  
 - <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/b46559fff5da700f8d139dbc72d92d851128b159/UNIX%20commands/Report.md">UNIX Commands</a> 
 - <a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/1f547fa93c86ab4b67b09a3f18e6f4f7903a4e52/Lab1_PrimeNumberDetector/Report.md">Lab 1: 4-bit Prime Number Detector & 1 Detector</a>    
