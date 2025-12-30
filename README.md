@@ -24,8 +24,9 @@ The work is implemented using **45nm CMOS technology** and demonstrates
 <img width="1566" height="477" alt="ALU_8BIT_PIPELINE_SCHEMATIC3" src="https://github.com/user-attachments/assets/73ff05ff-31e4-4528-864d-53cde78a9941" />       
 <img width="1691" height="783" alt="FINALALU" src="https://github.com/user-attachments/assets/c3749105-8b87-4b2f-a7cc-cb90bcf3f947" />  
 
-# 8-bit CPU
-<a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/bde017d5ef8c9be43f01ffc0e4b6740624938942/PROJECT/keerthi_projectkicoff.pdf"> 8-bit RISC CPU Architecture & RTL Implementation  
+
+<a href = "https://github.com/KeerthiPatil-RTL/Cadence-Virtuoso-Projects/blob/bde017d5ef8c9be43f01ffc0e4b6740624938942/PROJECT/keerthi_projectkicoff.pdf"> 8-bit RISC CPU Architecture & RTL Implementation    
+# 8-bit CPU  
 <img width="1086" height="763" alt="maincpu" src="https://github.com/user-attachments/assets/c6741486-b154-423f-9135-25dafa022345" />
 
 
